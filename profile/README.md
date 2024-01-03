@@ -1,8 +1,7 @@
 # 안녕하세요! Miso입니다.
 #### 환경을 웃음으로 바꾸다 :)
 
-[![Component 31](https://github.com/TeamMiso/.github/assets/101445027/3b8eaf0c-7e90-48f9-a3db-7f0df2dfa5d9)
-](https://avatars.githubusercontent.com/u/139105818?s=200&v=4)
+![App Icon  Rounded](https://github.com/TeamMiso/.github/assets/103114398/f4e3fd03-5b83-495d-8bc7-a11a9eafae22)
 
 <br />
 
